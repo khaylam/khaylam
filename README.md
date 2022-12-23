@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **khaylam/khaylam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![three-dot](https://user-images.githubusercontent.com/96652700/209346547-7562f92d-4ee4-4694-b109-4dfe29d8509e.svg)
